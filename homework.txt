@@ -1,1 +1,2 @@
 Step 3: First change
+Step 4: Conflict from second clone
