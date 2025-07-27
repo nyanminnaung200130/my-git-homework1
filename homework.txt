@@ -1,2 +1,5 @@
 Step 3: First change
+<<<<<<< HEAD
 Step 4: Conflict from first clone
+=======
+
