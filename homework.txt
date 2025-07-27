@@ -3,3 +3,4 @@ Step 3: First change
 Step 4: Conflict from first clone
 =======
 
+Step 5: Another remote update
